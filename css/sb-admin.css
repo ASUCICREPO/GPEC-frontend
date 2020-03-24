@@ -4449,7 +4449,7 @@ input[type="button"].btn-block {
 
 .navbar-brand {
   display: inline-block;
-  padding-top: 0.3125rem;
+  padding-top: 1.3125rem;
   padding-bottom: 0.3125rem;
   margin-right: 1rem;
   font-size: 1.25rem;
@@ -6985,7 +6985,7 @@ button.bg-light:focus {
 }
 
 .bg-dark {
-  background-color: #343a40 !important;
+  background-color: ##FFFFFF !important;
 }
 
 a.bg-dark:hover, a.bg-dark:focus,
@@ -10578,7 +10578,6 @@ body {
 #wrapper #content-wrapper {
   overflow-x: hidden;
   width: 100%;
-  padding-top: 1rem;
   padding-bottom: 80px;
 }
 
